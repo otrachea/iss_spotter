@@ -19,6 +19,7 @@
   "homepage": "https://github.com/otrachea/iss_spotter#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
-    "request": "^2.88.2"
+    "request": "^2.88.2",
+    "request-promise-native": "^1.0.9"
   }
 }
